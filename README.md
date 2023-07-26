@@ -50,10 +50,10 @@ Kaggle의 ‘****IBM HR Analytics Employee Attrition & Performance****’ 데이
 2. 퇴사 원인을 탐색적으로 파악할 수 있는 시각화 대시보드 제작
 
 # **1-4. 프로젝트 결과물**
-* 결과 정리 노션 (각자 개인 노션 페이지 정리 필요)
-   [결과물 노션](https://www.notion.so/likelion-aischool/fa01a75ce7df43dabedd6aa2a394cd5e?pvs=4)
+* 결과 정리 노션
+   [결과물 노션](https://seyeoncho.notion.site/Final-59cb66bfb858491691d3b2932bb717e9?pvs=4)
 * 결과보고 ppt
-* 시각화 대시보드(링크 참조)
+* [시각화 대시보드](https://public.tableau.com/app/profile/seyeon.cho/viz/Final_HR_Analytics_0505/DashBoard)
     ![image](https://user-images.githubusercontent.com/125840482/236977299-4fac6006-2f9f-4026-8a7e-5477730f51c6.png)
 * HR 데이터 수집 설문 예시
    * **설문조사 응답자용(임직원)**
